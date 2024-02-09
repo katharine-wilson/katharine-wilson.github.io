@@ -1,0 +1,129 @@
+/* Navbar styling */ 
+#navbar{
+    font-family:'EB Garamond', 'Times New Roman', Times, serif;
+}
+/* Footer styling */
+.footer{
+    background-color: #7fa66f;
+    color:white;
+    font-size: 20px;
+    font-family:'EB Garamond', 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+    text-align: center;
+    padding-top: 15px;
+}
+/* About Me Section styling */ 
+#aboutme{
+    font-family:'EB Garamond', 'Times New Roman', Times, serif;
+    padding-top:60px;
+}
+h1{
+    font-family:'EB Garamond', 'Times New Roman', Times, serif;
+    color: #6da65b;
+}
+.headshot{
+    padding-top:60px;
+    width: 20em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Resume Section styling */
+#resume{
+    padding-top:60px;
+    font-family:'EB Garamond', 'Times New Roman', Times, serif;
+}
+#respdf{
+    background-color: #7fa66f;
+    color:white;
+}
+.jobtitle{
+    color:#7fa66f;
+    font-size: 30px;
+}
+.jobdate{
+    font-size: 20px;
+}
+.jobdescript{
+    font-size: 15px;
+}
+#sidebar{
+    background-color: #7fa66f;
+    padding-top:50px;
+    color:white;
+}
+.skilltitle{
+    color:white;
+}
+/* Contact Section styling */
+#contact{
+    padding-top:60px;
+}
+#cpicture{
+    padding-top:60px;
+    width: 20em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ctitle{
+    font-family: 'EB Garamond', serif;
+    color:#7fa66f;
+    font-size: 45px;
+    padding-top: 15px;
+}
+.contacttext{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    color:black;
+    margin-left:13%;
+    text-align: center;
+}
+/* Clips Style */
+.worktitle{
+    text-align: center;
+}
+#work{
+    padding-top:60px;
+}
+p{
+    font-family: 'EB Garamond', serif;
+}
+.blacktext{
+    color:black;
+    text-align: center;
+}
+.card-img-top{
+    height: 200px;
+}
+#card{
+    font-family: 'EB Garamond', serif;
+}
+.btn btn-light{
+    color:#7fa66f;
+}
+.card-title{
+    font-family: 'EB Garamond', serif;
+}
+ /* Link Style */
+ a:link {
+    color:black;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:#7fa66f;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: gray;
+  }
+  .btn{
+    font-family: 'EB Garamond', serif;
+  }
