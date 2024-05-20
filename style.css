@@ -99,6 +99,7 @@ p{
 }
 #card{
     font-family: 'EB Garamond', serif;
+    border:solid thick #7fa66f;
 }
 .btn btn-light{
     color:#7fa66f;
